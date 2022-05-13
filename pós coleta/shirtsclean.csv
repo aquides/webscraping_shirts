@@ -1,0 +1,484 @@
+,product_id,product_category,product_name,product_price,style_id,Fit,color_id,color_name,lyocell,linen,cotton,rayon,polyamide,spandex,polyester,composition,scrappy_datetime
+0,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,1,black_floral,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+1,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,3,blue_white_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+2,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,8,black_patterned,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+3,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,10,light_beige_paisley-patterned,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+4,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,11,white_blue_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+5,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,12,dark_green_white_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+6,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,14,dark_blue_white_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+7,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,16,beige_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+8,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,17,green_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+9,703672018,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,18,beige_marble-patterned,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+10,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,3,light_purple,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+11,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,11,light_blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+12,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,15,light_beige,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+13,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,16,light_beige_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+14,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,17,blue_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+15,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,18,white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+16,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,19,black,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+17,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,20,natural_white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+18,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,21,blue_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+19,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,22,blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+20,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,23,light_green_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+21,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,24,dark_beige_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+22,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,26,beige_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+23,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,29,light_beige_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+24,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,30,rust_orange_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+25,666392030,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,31,light_blue_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+26,1036745011,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,6,light_blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+27,1036745011,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,8,mustard_yellow,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+28,1036745011,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,10,black,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+29,1036745011,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,11,white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+30,1036745011,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,12,light_beige,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+31,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,1,black_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+32,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,2,black_blue_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+33,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,4,black_birds,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+34,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,6,black_leaf-patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+35,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,7,dark_blue_leopards,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+36,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,9,white_floral,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+37,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,10,black_palm_trees,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+38,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,11,dark_blue_lemons,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+39,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,12,beige_leopard_print,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+40,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,14,khaki_green_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+41,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,18,white_dark_blue_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+42,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,19,black_pineapples,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+43,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,20,dark_blue_palm_trees,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+44,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,21,dark_blue_white_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+45,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,22,white_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+46,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,23,black_vegetation,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+47,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,24,natural_white_botanical,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+48,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,25,dark_green_pineapples,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+49,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,26,natural_white_coconuts,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+50,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,32,dark_blue_banana_leaves,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+51,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,34,blue_white_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+52,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,35,black_flowers,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+53,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,36,white_oranges,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+54,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,37,white_broccoli,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+55,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,39,white_black_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+56,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,40,navy_blue_hibiscuses,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+57,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,42,black_palm_leaves,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+58,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,43,black_white_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+59,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,44,light_blue_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+60,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,45,natural_white_shells,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+61,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,47,green_leaf_print,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+62,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,48,orange_floral,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+63,656677045,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,51,black_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+64,1039629004,men_shirts_linenshirts,regular_fit_linen-blend_overshirt, 34.99,1039629,regular_fit,1,white,NA,53%,47%,NA,NA,NA,NA,"Linen 53%, Cotton 47%",2022-04-25 18:54:43
+65,1039629004,men_shirts_linenshirts,regular_fit_linen-blend_overshirt, 34.99,1039629,regular_fit,3,light_gray,NA,53%,47%,NA,NA,NA,NA,"Linen 53%, Cotton 47%",2022-04-25 18:54:43
+66,1039629004,men_shirts_linenshirts,regular_fit_linen-blend_overshirt, 34.99,1039629,regular_fit,4,light_taupe,NA,53%,47%,NA,NA,NA,NA,"Linen 53%, Cotton 47%",2022-04-25 18:54:43
+67,1024680002,men_shirts_casual,relaxed_fit_linen-blend_resort_shirt, 24.99,1024680,relaxed_fit,2,purple_tie-dye,NA,55%,45%,NA,NA,NA,NA,"Linen 55%, Cotton 45%",2022-04-25 18:54:43
+68,1024680002,men_shirts_casual,relaxed_fit_linen-blend_resort_shirt, 24.99,1024680,relaxed_fit,5,purple_tie-dye,NA,55%,45%,NA,NA,NA,NA,"Linen 55%, Cotton 45%",2022-04-25 18:54:43
+69,1024680002,men_shirts_casual,relaxed_fit_linen-blend_resort_shirt, 24.99,1024680,relaxed_fit,9,black_patterned,NA,55%,45%,NA,NA,NA,NA,"Linen 55%, Cotton 45%",2022-04-25 18:54:43
+70,841808001,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,1,white,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+71,841808001,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,2,black,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+72,841808001,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,4,light_blue,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+73,841808001,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,1,white,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+74,841808001,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,2,black,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+75,841808001,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,4,light_blue,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+76,841808002,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,1,white,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+77,841808002,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,2,black,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+78,841808002,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,4,light_blue,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+79,841808002,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,1,white,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+80,841808002,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,2,black,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+81,841808002,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,4,light_blue,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+82,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,1,white,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+83,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,2,white_black_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+84,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,3,black,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+85,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,4,navy_blue_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+86,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,5,blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+87,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,6,navy_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+88,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,7,gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+89,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,8,light_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+90,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,9,light_blue_white_striped,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+91,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,10,burgundy,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+92,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,11,burgundy_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+93,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,12,dark_blue_white_checked,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+94,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,15,dark_blue_patterned,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+95,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,16,khaki_green,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+96,976709001,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,17,dark_gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+97,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+98,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+99,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+100,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+101,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+102,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+103,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+104,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+105,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+106,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+107,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+108,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+109,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+110,735094015,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+111,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+112,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+113,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+114,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+115,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+116,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+117,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+118,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+119,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+120,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+121,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+122,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+123,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+124,735094011,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+125,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,1,beige,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+126,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,2,sage_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+127,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,3,navy_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+128,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,5,light_khaki_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+129,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,7,white_beige_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+130,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,8,light_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+131,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,9,white_black_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+132,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,1,beige,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+133,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,2,sage_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+134,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,3,navy_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+135,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,5,light_khaki_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+136,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,7,white_beige_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+137,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,8,light_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+138,965257005,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,9,white_black_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+139,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+140,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+141,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+142,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+143,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+144,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+145,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+146,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+147,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+148,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+149,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+150,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+151,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+152,735094002,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+153,1036745010,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,6,light_blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+154,1036745010,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,8,mustard_yellow,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+155,1036745010,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,10,black,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+156,1036745010,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,11,white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+157,1036745010,men_shirts_casual,relaxed_fit_short-sleeved_linen-blend_shirt, 24.99,1036745,relaxed_fit,12,light_beige,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+158,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,1,white,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+159,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,2,white_black_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+160,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,3,black,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+161,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,4,navy_blue_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+162,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,5,blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+163,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,6,navy_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+164,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,7,gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+165,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,8,light_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+166,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,9,light_blue_white_striped,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+167,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,10,burgundy,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+168,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,11,burgundy_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+169,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,12,dark_blue_white_checked,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+170,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,15,dark_blue_patterned,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+171,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,16,khaki_green,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+172,976709003,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,17,dark_gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+173,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,3,light_purple,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+174,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,11,light_blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+175,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,15,light_beige,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+176,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,16,light_beige_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+177,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,17,blue_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+178,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,18,white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+179,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,19,black,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+180,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,20,natural_white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+181,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,21,blue_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+182,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,22,blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+183,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,23,light_green_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+184,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,24,dark_beige_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+185,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,26,beige_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+186,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,29,light_beige_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+187,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,30,rust_orange_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+188,666392020,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,31,light_blue_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+189,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,1,white,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+190,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,2,black,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+191,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,3,light_blue,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+192,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,4,beige,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+193,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,7,dark_blue,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+194,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,8,dark_taupe,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+195,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,12,taupe,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+196,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,15,apricot,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+197,948922001,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,16,light_khaki_green,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+198,1028144001,men_shirts_casual,relaxed_fit_short-sleeved_shirt, 12.99,1028144,relaxed_fit,1,black,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+199,1028144001,men_shirts_casual,relaxed_fit_short-sleeved_shirt, 12.99,1028144,relaxed_fit,7,white,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+200,1028144001,men_shirts_casual,relaxed_fit_short-sleeved_shirt, 12.99,1028144,relaxed_fit,8,light_blue,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+201,1028144001,men_shirts_casual,relaxed_fit_short-sleeved_shirt, 12.99,1028144,relaxed_fit,9,blue,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+202,1028144001,men_shirts_casual,relaxed_fit_short-sleeved_shirt, 12.99,1028144,relaxed_fit,11,light_purple,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+203,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,1,black_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+204,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,2,black_blue_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+205,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,4,black_birds,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+206,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,6,black_leaf-patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+207,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,7,dark_blue_leopards,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+208,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,9,white_floral,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+209,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,10,black_palm_trees,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+210,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,11,dark_blue_lemons,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+211,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,12,beige_leopard_print,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+212,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,14,khaki_green_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+213,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,18,white_dark_blue_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+214,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,19,black_pineapples,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+215,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,20,dark_blue_palm_trees,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+216,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,21,dark_blue_white_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+217,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,22,white_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+218,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,23,black_vegetation,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+219,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,24,natural_white_botanical,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+220,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,25,dark_green_pineapples,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+221,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,26,natural_white_coconuts,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+222,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,32,dark_blue_banana_leaves,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+223,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,34,blue_white_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+224,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,35,black_flowers,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+225,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,36,white_oranges,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+226,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,37,white_broccoli,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+227,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,39,white_black_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+228,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,40,navy_blue_hibiscuses,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+229,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,42,black_palm_leaves,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+230,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,43,black_white_striped,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+231,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,44,light_blue_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+232,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,45,natural_white_shells,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+233,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,47,green_leaf_print,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+234,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,48,orange_floral,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+235,656677043,men_shirts_shortsleeved,patterned_resort_shirt, 14.99,656677,relaxed_fit,51,black_patterned,NA,NA,NA,100%,NA,NA,NA,Rayon 100%,2022-04-25 18:54:43
+236,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,1,dark_blue_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+237,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,2,white,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+238,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,3,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+239,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,4,light_pink,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+240,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,5,white_patterned,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+241,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,6,dark_blue_white_dotted,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+242,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,8,black_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+243,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,9,white_black_dotted,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+244,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,14,black_flamingos,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+245,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,17,black_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+246,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,20,white_black_patterned,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+247,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,21,dark_blue_flowers,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+248,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,22,white_tulips,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+249,618329021,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,23,white_flowers,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+250,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,1,black_floral,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+251,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,3,blue_white_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+252,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,8,black_patterned,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+253,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,10,light_beige_paisley-patterned,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+254,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,11,white_blue_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+255,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,12,dark_green_white_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+256,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,14,dark_blue_white_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+257,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,16,beige_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+258,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,17,green_striped,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+259,703672017,men_shirts_casual,regular_fit_short-sleeve_shirt, 24.99,703672,regular_fit,18,beige_marble-patterned,100%,NA,NA,NA,NA,NA,NA,Lyocell 100%,2022-04-25 18:54:43
+260,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+261,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+262,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+263,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+264,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+265,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+266,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+267,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,2,white,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+268,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,4,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+269,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,5,white_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+270,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,6,light_gray,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+271,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,9,white_blue_striped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+272,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,11,black,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+273,735094006,men_shirts_shortsleeved,muscle_fit_cotton_shirt, 17.99,735094,muscle_fit,15,white_pinstriped,NA,NA,97%,NA,NA,3%,NA,"Cotton 97%, Spandex 3%",2022-04-25 18:54:43
+274,841808004,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,1,white,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+275,841808004,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,2,black,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+276,841808004,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,4,light_blue,NA,NA,78%,NA,19%,3%,NA,"Cotton 78%, Polyamide 19%, Spandex 3%",2022-04-25 18:54:43
+277,841808004,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,1,white,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+278,841808004,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,2,black,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+279,841808004,men_shirts_longsleeved,slim_fit_stretch_shirt, 24.99,841808,slim_fit,4,light_blue,NA,NA,77%,NA,20%,3%,NA,"Cotton 77%, Polyamide 20%, Spandex 3%",2022-04-25 18:54:43
+280,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,1,dark_blue_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+281,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,2,white,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+282,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,3,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+283,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,4,light_pink,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+284,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,5,white_patterned,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+285,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,6,dark_blue_white_dotted,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+286,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,8,black_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+287,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,9,white_black_dotted,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+288,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,14,black_flamingos,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+289,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,17,black_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+290,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,20,white_black_patterned,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+291,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,21,dark_blue_flowers,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+292,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,22,white_tulips,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+293,618329023,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,23,white_flowers,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+294,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,2,apricot,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+295,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,3,natural_white_patterned,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+296,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,4,dark_blue_dotted,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+297,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,10,dark_blue_small_floral,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+298,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,11,red_leaf_print,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+299,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,12,black_botanical,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+300,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,13,white,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+301,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,14,dark_blue_white_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+302,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,15,natural_white_floral,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+303,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,16,dark_blue_leopards,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+304,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,18,light_red_chambray,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+305,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,19,khaki_green_leaf_print,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+306,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,22,white_leaf-patterned,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+307,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,23,white_blue_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+308,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,26,blue_white_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+309,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,27,dark_blue_dotted,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+310,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,28,mustard_yellow_patterned,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+311,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,29,white_floral,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+312,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,30,khaki_green_floral,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+313,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,31,red_floral,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+314,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,32,natural_white_flowers,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+315,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,35,white_green_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+316,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,36,dark_blue_leaf_print,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+317,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,37,black_palm_trees,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+318,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,38,natural_white_palm_trees,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+319,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,40,black_flowers,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+320,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,42,black_palm_trees,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+321,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,45,dark_blue_leaf_print,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+322,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,46,light_beige_leaf_print,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+323,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,47,black_flamingoes,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+324,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,49,natural_white_botanical,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+325,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,55,dark_blue_patterned,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+326,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,56,light_beige_patterned,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+327,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,57,blue_white_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+328,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,59,dark_blue_leaf_print,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+329,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,60,light_green_white_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+330,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,61,green_leaf_print,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+331,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,63,white_flowers,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+332,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,64,white_palm_trees,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+333,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,68,light_blue_white_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+334,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,69,light_green_white_striped,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+335,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,70,light_blue_tulips,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+336,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,71,black_tulips,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+337,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,72,light_green_fruit,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+338,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,74,dark_green_monstera_leaves,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+339,501620070,men_shirts_casual,regular_fit_cotton_shirt, 12.99,501620,regular_fit,75,white_shells,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+340,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,1,beige,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+341,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,2,sage_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+342,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,3,navy_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+343,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,5,light_khaki_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+344,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,7,white_beige_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+345,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,8,light_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+346,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,9,white_black_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+347,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,1,beige,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+348,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,2,sage_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+349,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,3,navy_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+350,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,5,light_khaki_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+351,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,7,white_beige_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+352,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,8,light_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+353,965257001,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,9,white_black_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+354,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,1,white,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+355,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,2,white_black_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+356,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,3,black,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+357,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,4,navy_blue_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+358,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,5,blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+359,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,6,navy_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+360,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,7,gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+361,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,8,light_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+362,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,9,light_blue_white_striped,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+363,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,10,burgundy,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+364,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,11,burgundy_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+365,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,12,dark_blue_white_checked,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+366,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,15,dark_blue_patterned,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+367,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,16,khaki_green,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+368,976709006,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,17,dark_gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+369,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,1,beige,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+370,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,2,sage_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+371,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,3,navy_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+372,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,5,light_khaki_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+373,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,7,white_beige_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+374,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,8,light_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+375,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,9,white_black_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 52%, Cotton 48%",2022-04-25 18:54:43
+376,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,1,beige,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+377,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,2,sage_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+378,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,3,navy_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+379,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,5,light_khaki_green,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+380,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,7,white_beige_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+381,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,8,light_blue,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+382,965257008,men_shirts_casual,regular_fit_linen-blend_shirt, 24.99,965257,regular_fit,9,white_black_striped,NA,NA,NA,NA,NA,NA,NA,"Shell: Linen 55%, Cotton 45%",2022-04-25 18:54:43
+383,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,1,white,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+384,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,2,black,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+385,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,3,light_blue,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+386,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,4,beige,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+387,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,7,dark_blue,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+388,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,8,dark_taupe,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+389,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,12,taupe,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+390,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,15,apricot,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+391,948922004,men_shirts_linenshirts,regular_fit_linen_shirt, 39.99,948922,regular_fit,16,light_khaki_green,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+392,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,3,light_purple,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+393,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,11,light_blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+394,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,15,light_beige,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+395,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,16,light_beige_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+396,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,17,blue_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+397,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,18,white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+398,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,19,black,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+399,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,20,natural_white,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+400,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,21,blue_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+401,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,22,blue,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+402,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,23,light_green_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+403,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,24,dark_beige_melange,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+404,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,26,beige_white_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+405,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,29,light_beige_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+406,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,30,rust_orange_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+407,666392024,men_shirts_linenshirts,slim_fit_linen-blend_shirt, 29.99,666392,slim_fit,31,light_blue_striped,NA,52%,48%,NA,NA,NA,NA,"Linen 52%, Cotton 48%",2022-04-25 18:54:43
+408,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,1,white,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+409,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,2,white_black_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+410,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,3,black,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+411,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,4,navy_blue_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+412,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,5,blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+413,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,6,navy_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+414,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,7,gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+415,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,8,light_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+416,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,9,light_blue_white_striped,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+417,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,10,burgundy,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+418,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,11,burgundy_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+419,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,12,dark_blue_white_checked,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+420,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,15,dark_blue_patterned,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+421,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,16,khaki_green,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+422,976709002,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,17,dark_gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+423,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,1,white,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+424,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,2,white_black_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+425,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,3,black,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+426,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,4,navy_blue_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+427,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,5,blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+428,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,6,navy_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+429,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,7,gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+430,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,8,light_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+431,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,9,light_blue_white_striped,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+432,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,10,burgundy,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+433,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,11,burgundy_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+434,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,12,dark_blue_white_checked,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+435,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,15,dark_blue_patterned,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+436,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,16,khaki_green,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+437,976709007,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,17,dark_gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+438,1035603001,men_shirts_casual,relaxed_fit_linen_resort_shirt, 29.99,1035603,relaxed_fit,1,black,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+439,1035603001,men_shirts_casual,relaxed_fit_linen_resort_shirt, 29.99,1035603,relaxed_fit,2,light_yellow,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+440,1035603001,men_shirts_casual,relaxed_fit_linen_resort_shirt, 29.99,1035603,relaxed_fit,7,rust_brown_floral,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+441,1035603001,men_shirts_casual,relaxed_fit_linen_resort_shirt, 29.99,1035603,relaxed_fit,8,beige_floral,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+442,1035603001,men_shirts_casual,relaxed_fit_linen_resort_shirt, 29.99,1035603,relaxed_fit,9,light_green_patterned,NA,100%,NA,NA,NA,NA,NA,Linen 100%,2022-04-25 18:54:43
+443,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,1,dark_blue_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+444,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,2,white,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+445,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,3,black,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+446,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,4,light_pink,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+447,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,5,white_patterned,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+448,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,6,dark_blue_white_dotted,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+449,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,8,black_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+450,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,9,white_black_dotted,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+451,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,14,black_flamingos,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+452,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,17,black_floral,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+453,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,20,white_black_patterned,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+454,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,21,dark_blue_flowers,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+455,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,22,white_tulips,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+456,618329022,men_shirts_casual,muscle_fit_cotton_shirt, 24.99,618329,muscle_fit,23,white_flowers,NA,NA,96%,NA,NA,4%,NA,"Cotton 96%, Spandex 4%",2022-04-25 18:54:43
+457,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,1,white,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+458,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,2,white_black_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+459,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,3,black,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+460,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,4,navy_blue_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+461,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,5,blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+462,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,6,navy_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+463,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,7,gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+464,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,8,light_blue,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+465,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,9,light_blue_white_striped,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+466,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,10,burgundy,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+467,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,11,burgundy_dotted,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+468,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,12,dark_blue_white_checked,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+469,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,15,dark_blue_patterned,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+470,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,16,khaki_green,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+471,976709004,men_shirts_longsleeved,slim_fit_easy-iron_shirt, 14.99,976709,slim_fit,17,dark_gray,NA,NA,35%,NA,NA,NA,65%,"Polyester 65%, Cotton 35%",2022-04-25 18:54:43
+472,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,2,white,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+473,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,3,light_blue,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+474,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,4,dark_blue,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+475,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,5,beige,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+476,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,6,khaki_beige,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+477,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,7,dark_blue,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+478,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,9,khaki_green,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+479,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,10,charcoal_gray,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+480,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,11,dark_blue,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+481,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,12,pink,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
+482,1013956011,men_shirts_longsleeved,regular_fit_oxford_shirt, 24.99,1013956,regular_fit,18,light_green,NA,NA,100%,NA,NA,NA,NA,Cotton 100%,2022-04-25 18:54:43
